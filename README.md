@@ -12,3 +12,5 @@
 ---
 
 ## :dart: Objetivos
+
+![](Images/1C++.png)
