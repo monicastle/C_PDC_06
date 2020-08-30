@@ -12,3 +12,21 @@
 ---
 
 ## :dart: Objetivos
+
+![](Images/1C++.png)
+
+Punto de Control #06 en **C++** diseñado para demostrar:
+
+1. :nut_and_bolt: La diferencia en el uso de:
+   - **static_cast**
+   - **dynamic_cast**
+2. :books: La implementación y mejora de:
+    - **Funciones Virtuales** 
+    - **Typeid**
+    - **Sobrecarga de Operadores**
+3. :open_file_folder:La organización de:
+   - Código (**Visual Studio Code** y Repositorio en **Github**)
+   - Imágenes (Extensión **Polacode** de **VSC**)
+   - Formato (**Markdown** en **VSC**)
+
+---
