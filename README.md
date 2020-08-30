@@ -30,3 +30,51 @@ Punto de Control #06 en **C++** diseñado para demostrar:
    - Formato (**Markdown** en **VSC**)
 
 ---
+
+## :large_blue_diamond: Static_Cast
+
+![](Images/Static_Cast.png)
+
+---
+
+## :large_orange_diamond: Static_Cast vs Dynamic_Cast 1/3
+
+![](Images/Static_CastvsDynamic_Cast1.png)
+
+---
+
+## :large_orange_diamond: Static_Cast vs Dynamic_Cast 2/3
+
+![](Images/Static_CastvsDynamic_Cast2.png)
+
+---
+
+## :large_orange_diamond: Static_Cast vs Dynamic_Cast 3/3
+
+![](Images/Static_CastvsDynamic_Cast3.png)
+
+---
+
+##  :green_large_square:  Funciones Virtuales
+
+![](Images/FuncionesVirtuales.png)
+
+---
+
+## :purple_large_square: Typeid
+
+![](Images/Typeid.png)
+
+---
+
+## :purple_large_square: Sobrecarga de Operadores 1
+
+![](Images/SobrecargadeOperadores1.png)
+
+---
+
+## :purple_large_square: Sobrecarga de Operadores 2
+
+![](Images/SobrecargadeOperadores2.png)
+
+---
