@@ -31,49 +31,49 @@ Punto de Control #06 en **C++** diseñado para demostrar:
 
 ---
 
-## :large_blue_diamond: Static_Cast
+## :black_circle: Static_Cast
 
 ![](Images/Static_Cast.png)
 
 ---
 
-## :large_orange_diamond: Static_Cast vs Dynamic_Cast 1/3
+## :brown_circle: Static_Cast vs Dynamic_Cast 1/3
 
 ![](Images/Static_CastvsDynamic_Cast1.png)
 
 ---
 
-## :large_orange_diamond: Static_Cast vs Dynamic_Cast 2/3
+## :purple_circle: Static_Cast vs Dynamic_Cast 2/3
 
 ![](Images/Static_CastvsDynamic_Cast2.png)
 
 ---
 
-## :large_orange_diamond: Static_Cast vs Dynamic_Cast 3/3
+## :yellow_circle: Static_Cast vs Dynamic_Cast 3/3
 
 ![](Images/Static_CastvsDynamic_Cast3.png)
 
 ---
 
-##  :green_large_square:  Funciones Virtuales
+##  :orange_circle:  Funciones Virtuales
 
 ![](Images/FuncionesVirtuales.png)
 
 ---
 
-## :purple_large_square: Typeid
+## :green_circle: Typeid
 
 ![](Images/Typeid.png)
 
 ---
 
-## :purple_large_square: Sobrecarga de Operadores 1
+## :large_blue_circle: Sobrecarga de Operadores 1
 
 ![](Images/SobrecargadeOperadores1.png)
 
 ---
 
-## :purple_large_square: Sobrecarga de Operadores 2
+## :red_circle: Sobrecarga de Operadores 2
 
 ![](Images/SobrecargadeOperadores2.png)
 
