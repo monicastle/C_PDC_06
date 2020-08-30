@@ -35,17 +35,29 @@ Punto de Control #06 en **C++** diseñado para demostrar:
 
 ![](Images/Static_Cast.png)
 
+## :small_blue_diamond: Salida - Static_Cast
+
+![](Images/Salida-Static_Cast.jpeg)
+
 ---
 
 ## :brown_circle: Static_Cast vs Dynamic_Cast 1/3
 
 ![](Images/Static_CastvsDynamic_Cast1.png)
 
+## :small_blue_diamond: Salida - Static_Cast vs Dynamic_Cast 1/3
+
+![](Images/Salida-STvsDC1.jpeg)
+
 ---
 
 ## :purple_circle: Static_Cast vs Dynamic_Cast 2/3
 
 ![](Images/Static_CastvsDynamic_Cast2.png)
+
+## :small_blue_diamond: Salida - Static_Cast vs Dynamic_Cast 2/3
+
+![](Images/Salida-STvsDC2.jpeg)
 
 ---
 
@@ -59,11 +71,19 @@ Punto de Control #06 en **C++** diseñado para demostrar:
 
 ![](Images/FuncionesVirtuales.png)
 
+## :small_blue_diamond: Salida - Funciones Virtuales
+
+![](Images/Salida-FuncionesVirtuales.jpeg)
+
 ---
 
 ## :green_circle: Typeid
 
 ![](Images/Typeid.png)
+
+## :small_blue_diamond: Salida - Typeid
+
+![](Images/Salida-Typeid.jpeg)
 
 ---
 
@@ -71,10 +91,18 @@ Punto de Control #06 en **C++** diseñado para demostrar:
 
 ![](Images/SobrecargadeOperadores1.png)
 
+## :small_blue_diamond: Salida - Sobrecarga de Operadores 1
+
+![](Images/Salida-SDO1.jpeg)
+
 ---
 
 ## :red_circle: Sobrecarga de Operadores 2
 
 ![](Images/SobrecargadeOperadores2.png)
+
+## :small_blue_diamond: Salida - Sobrecarga de Operadores 2
+
+![](Images/Salida-SDO2.jpeg)
 
 ---
