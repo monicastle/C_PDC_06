@@ -135,3 +135,14 @@ Este programa utiliza la sobrecarga de operadores, con los siguientes operadores
 La salida imprime la suma (++) y resta (--) de un número.
 
 ---
+
+## :computer: Código
+
+- :blue_book: [C_PDC_06](https://github.com/monicastle/C_PDC_06)
+
+---
+## :wrench: Herramientas
+- :package: [Visual Studio Code](https://code.visualstudio.com/)
+- :camera: [Polacode-2020 v0.5.2](https://github.com/jeff-hykin/polacode)
+- :notebook: [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+- :smile: [Emoji Cheat Sheet](https://www.webfx.com/tools/emoji-cheat-sheet/)
